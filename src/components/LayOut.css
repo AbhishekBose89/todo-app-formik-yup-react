@@ -1,0 +1,10 @@
+.title {
+  font-size: 50px;
+  font-weight: 900;
+  color: rgb(104, 104, 247);
+  text-decoration: underline;
+  margin-bottom: 20px;
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+}

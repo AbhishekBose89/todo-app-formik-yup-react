@@ -1,0 +1,21 @@
+.notfound-item{
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 0 rgba(0,0,0,.15);
+    background-color: rgba(155, 196, 182, 0.815);
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    height: 120px;
+}
+.notfound-para{
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+}
+#notfound-btn{
+    background-color: rgba(117, 115, 115, 0.801);
+    padding: 5px;
+    width: 180px;
+}
