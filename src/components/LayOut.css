@@ -1,7 +1,8 @@
 .title {
   font-size: 50px;
   font-weight: 900;
-  color: rgb(104, 104, 247);
+  /* color: rgb(104, 104, 247); */
+  color: lightgreen;
   text-decoration: underline;
   margin-bottom: 20px;
   display: block;
